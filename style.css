@@ -16,6 +16,9 @@ body {
     float: left;
     height: 30px;
 }
+#cuccos {
+    height: 34px;
+}
 #add {
     float: left;
     width: 50px;
